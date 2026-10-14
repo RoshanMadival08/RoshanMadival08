@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Roshan 👋
 
-<!--
-**RoshanMadival08/RoshanMadival08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer at **IBM**, moving into **AI engineering**.
+By day I work on enterprise integrations (Java, IBM MQ, TIBCO). On the side I build AI agents in Python.
 
-Here are some ideas to get you started:
+**🔨 Building now:** [PayTrace](https://github.com/RoshanMadival08/paytrace), an AI agent that finds why a salary didn't reach the bank. Built in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Open source:** contributions to [OpenMRS](https://github.com/openmrs) and [c2siorg/b0bot](https://github.com/c2siorg/b0bot).
+
+**🧰 Stack:** Python · FastAPI · PostgreSQL · RabbitMQ · Java · IBM MQ · TIBCO · GitHub Actions
+
+**📚 Learning:** LangGraph · MCP · RAG · evals
+
+**📫 Find me:** [X](https://x.com/rviz_explore) · [LinkedIn](https://www.linkedin.com/in/roshan-madival-079682211)
